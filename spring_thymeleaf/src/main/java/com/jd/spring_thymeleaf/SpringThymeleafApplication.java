@@ -8,6 +8,7 @@ public class SpringThymeleafApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringThymeleafApplication.class, args);
+        System.out.println("人生如戏啊 靓仔");
     }
 
 }
